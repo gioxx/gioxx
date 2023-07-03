@@ -18,5 +18,3 @@
 
 - End User Support Engineer during the day.
 - Tech writer during the night (you can read my articles - in italian - on my blog).
-
-[![Gioxx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gioxx&show_icons=true)](https://github.com/gioxx)
