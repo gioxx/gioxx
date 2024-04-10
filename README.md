@@ -23,8 +23,8 @@
 <br /><br />
 
 - I try to be a dad and a husband whenever I can.
-- I'm an End User Support Engineer during the day.
-- In my nonexistent free time I write technical or personal articles (you can read my articles in Italian on my blog).
+- I'm a System Engineer during the day.
+- In my nonexistent free time I write technical or personal articles (you can read my articles in italian on my blog).
 - I write bad code that somehow works.
 - I'm an asshole on the outside but tender on the inside, to the happiness of those who know me and a general displeasure of those who do not. I apologize in advance if anything I said or wrote to you sounded out of place, distasteful, or wrong.
 
