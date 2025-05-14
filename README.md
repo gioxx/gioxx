@@ -3,29 +3,28 @@
 # It's a me, Gioxx! 👋
 ### Giovanni Francesco '*Gioxx*' Solone
 <a href="https://gioxx.org">
-  <img align="left" alt="Gioxx's Wall" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/wordpress.svg" />
+  <img width="22" src="https://api.iconify.design/logos:wordpress-icon.svg" alt="Gioxx's Wall" />
 </a>
 <a href="https://ko-fi.com/gioxx">
-  <img align="left" alt="Gioxx on Ko-Fi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/kofi.svg" />
+  <img width="22" src="https://api.iconify.design/simple-icons:kofi.svg?color=%2329abe0" alt="Gioxx on Ko-Fi" />
 </a>
-<a href="https://twitter.com/gioxx">
-  <img align="left" alt="Gioxx on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/x.svg" />
+<a href="https://x.com/gioxx">
+  <img width="22" src="https://api.iconify.design/logos:x.svg" alt="Gioxx on X" />
 </a>
 <a href="https://go.gioxx.org/mastodon">
-  <img align="left" alt="Gioxx on Mastodon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/mastodon.svg" />
+  <img width="22" src="https://api.iconify.design/logos:mastodon-icon.svg" alt="Gioxx on Mastodon" />
 </a>
 <a href="https://www.linkedin.com/in/gioxx/">
-  <img align="left" alt="Gioxx on LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" />
+  <img width="22" src="https://api.iconify.design/logos:linkedin-icon.svg" alt="Gioxx on LinkedIn" />
 </a>
 <a href="https://go.gioxx.org/r">
-  <img alt="Gioxx on Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/reddit.svg" />
+  <img width="22" src="https://api.iconify.design/logos:reddit-icon.svg" alt="Gioxx on Reddit" />
 </a>
 <br /><br />
 
-- I try to be a dad and a husband whenever I can.
-- I'm a System Engineer during the day.
-- In my nonexistent free time I write technical or personal articles (you can read my articles in italian on my blog).
-- I write bad code that somehow works.
-- I'm an asshole on the outside but tender on the inside, to the happiness of those who know me and a general displeasure of those who do not. I apologize in advance if anything I said or wrote to you sounded out of place, distasteful, or wrong.
+- Dad and husband every chance I get, System Engineer by day.
+- In my (nonexistent) free time, I write articles in Italian—technical or personal—on my blog.
+- I write bad code that somehow works, sometimes for work, sometimes for fun.
+- An asshole on the outside, soft on the inside—ask my friends. Sorry in advance if I ever come off the wrong way.
 
-But I also have flaws.
+Flawed by design, just like my code.
