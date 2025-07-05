@@ -1,6 +1,6 @@
 <img align="right" width="128" height="128" src="https://gioxx.org/wp-content/uploads/2020/04/g3964-1000px.png" alt="Gioxx logo">
 
-# It's-a me, **Gioxx**! 👋  
+### _It's-a me, **Gioxx**_! 👋  
 ### Giovanni Francesco *"Gioxx"* Solone
 
 <p align="left">
@@ -35,22 +35,12 @@
 
 > *Flawed by design, just like my code.*
 
----
-
 ### 📈 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=gioxx&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=false" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioxx&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
----
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gioxx&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=false" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioxx&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages" height="165" />
+</div>
 
 ### 📫 Reach Out
 
@@ -59,4 +49,4 @@ Want to collaborate, say hi, or rant about tech?
 
 ---
 
-> “**_When in doubt, reboot. When that fails, blog about it._**”
+“**_When in doubt, reboot. When that fails, blog about it._**”
