@@ -66,4 +66,4 @@ Want to collaborate, say hi, or rant about tech? Stay in touch!
 
 ---
 
-“**_When in doubt, reboot. When that fails, press the red button and run away very fast._**”
+“**_When in doubt, reboot. When that fails, push the red button and run away very fast._**”
