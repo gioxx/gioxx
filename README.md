@@ -4,8 +4,6 @@
 
 ###
 
-<img align="right" width="128" height="128" src="https://gioxx.org/wp-content/uploads/2020/04/g3964-1000px.png" alt="Gioxx logo">
-
 ### 👨‍💻 Giovanni Francesco *"Gioxx"* Solone: About Me
 
 - 🧔‍♂️ Dad and husband every chance I get, **System Engineer by day**
