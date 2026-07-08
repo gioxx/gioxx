@@ -4,20 +4,13 @@
 
 ###
 
-### 👨‍💻 Giovanni Francesco *"Gioxx"* Solone: About Me
+### 👨‍💻 Giovanni Francesco *"Gioxx"* Solone
+Flawed by design, just like my code.
 
 - 🧔‍♂️ Dad and husband every chance I get, **System Engineer by day**
 - ✍️ Blogger in Italian, covering tech and life on [gioxx.org](https://gioxx.org)
-- 🧪 I write **ugly code that somehow works**—sometimes for fun, sometimes for work
+- 🧪 I write **ugly code that somehow works**, sometimes for fun, sometimes for work
 - 💥 An asshole on the outside, soft on the inside—ask my friends. Sorry in advance if I ever come off the wrong way.
-
-> *Flawed by design, just like my code.*
-
-###
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gioxx&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
 
 ### 📫 Reach Out
 
